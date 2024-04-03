@@ -25,5 +25,26 @@ socorro2
 ![Screenshot 2024-03-26 062329](https://github.com/dokiAVESES/3.14/assets/164116653/ae05ec25-3b2f-456c-90f2-2a579fd1cc80)
 c
 ![Screenshot 2024-03-26 223331](https://github.com/dokiAVESES/3.14/assets/164116653/903ccf2e-4bd0-4e18-99b7-bd1f3136fa66)
+**css diner**
+![ejercicio1](https://github.com/dokiAVESES/3.14/assets/164116653/3d5df1a3-e954-44d8-a736-cc0048c3ba40)
+![ejercicio2](https://github.com/dokiAVESES/3.14/assets/164116653/fd53df2d-18ac-4a2d-9bcd-df0d8b51ea8b)
+![ejercicio3](https://github.com/dokiAVESES/3.14/assets/164116653/f8b3ee41-78a5-4e41-aca3-c855c6ae3a11)
+![ejercicio4](https://github.com/dokiAVESES/3.14/assets/164116653/5bf57b0f-960b-4cf4-ae5f-58d876372fc8)
+![ejercicio5](https://github.com/dokiAVESES/3.14/assets/164116653/1ca64260-fe58-416b-a8aa-3510acd85ae2)
+![Screenshot 2024-04-02 222643](https://github.com/dokiAVESES/3.14/assets/164116653/8da7d7a2-8984-4325-877b-a3851e1c62c1)
+![Screenshot 2024-04-02 222715](https://github.com/dokiAVESES/3.14/assets/164116653/19dd0f8c-a438-432d-b643-3680277e28e6)
+![Screenshot 2024-04-02 222743](https://github.com/dokiAVESES/3.14/assets/164116653/417359be-1464-4076-a752-dc432b66c530)
+![Screenshot 2024-04-02 222807](https://github.com/dokiAVESES/3.14/assets/164116653/c9014c86-3a91-4b11-bb14-170cc8e4f743)
+![Screenshot 2024-04-02 222924](https://github.com/dokiAVESES/3.14/assets/164116653/5291a845-c1d0-4693-81d5-7b9680feb1ce)
+![Screenshot 2024-04-02 222952](https://github.com/dokiAVESES/3.14/assets/164116653/17e4f9ac-bc38-4fa2-a475-3c0f34d7424f)
+![Screenshot 2024-04-02 223016](https://github.com/dokiAVESES/3.14/assets/164116653/ce1b99cf-cea0-4253-8c5c-d2444b480e78)
+![Screenshot 2024-04-02 223037](https://github.com/dokiAVESES/3.14/assets/164116653/8a68c509-4b86-4e50-88d6-6a9cd221f094)
+![Screenshot 2024-04-02 223058](https://github.com/dokiAVESES/3.14/assets/164116653/41d37ea0-a572-4b8a-a4c2-f5630d8a8260)
+![Screenshot 2024-04-02 223120](https://github.com/dokiAVESES/3.14/assets/164116653/21886524-adb3-48ff-8a23-0f47aee7f835)
+![Screenshot 2024-04-02 223148](https://github.com/dokiAVESES/3.14/assets/164116653/2dd902f4-2312-40d2-80d0-7f2893777ff1)
+![Screenshot 2024-04-02 223504](https://github.com/dokiAVESES/3.14/assets/164116653/003279d6-f526-4ada-94ef-5683ca53cfa9)
+
+
+
 
 
