@@ -26,6 +26,8 @@ socorro2
 c
 ![Screenshot 2024-03-26 223331](https://github.com/dokiAVESES/3.14/assets/164116653/903ccf2e-4bd0-4e18-99b7-bd1f3136fa66)
 **css diner**
+![Screenshot 2024-04-02 225201](https://github.com/dokiAVESES/3.14/assets/164116653/e429cde3-7355-4068-bc8e-890df77d5ee7)
+
 ![ejercicio1](https://github.com/dokiAVESES/3.14/assets/164116653/3d5df1a3-e954-44d8-a736-cc0048c3ba40)
 ![ejercicio2](https://github.com/dokiAVESES/3.14/assets/164116653/fd53df2d-18ac-4a2d-9bcd-df0d8b51ea8b)
 ![ejercicio3](https://github.com/dokiAVESES/3.14/assets/164116653/f8b3ee41-78a5-4e41-aca3-c855c6ae3a11)
